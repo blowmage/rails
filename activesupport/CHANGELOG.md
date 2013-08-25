@@ -1,3 +1,8 @@
+*   Add `SecureRandom::uuid_v3` and `SecureRandom::uuid_v5` to support stable
+    UUID fixtures on PostgreSQL.
+
+    *Roderick van Domburg*
+
 ## Rails 4.1.2 (June 16, 2014) ##
 
 *   `Hash#deep_transform_keys` and `Hash#deep_transform_keys!` now transform hashes
